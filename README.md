@@ -2,7 +2,7 @@
 
 Este es una web de una pagina de de ejemplo, la web explica que son HTML, CSS y JS
 
-> Tiene idiomas ES, EN y PT pero estan por separados, osea hay un index.html, exampleweb.html y sitedeexemplo.html y esos estan en apartado de Realeses
+> Tiene idiomas ES, EN y PT pero estan por separados, osea hay un index.html, exampleweb.html y sitedeexemplo.html y esos estan en apartado de Realeses (En español *lanzamientos*)
 
 #### Hecho con HTML y JS
 
